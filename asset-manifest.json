@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webrtc-demo/static/css/main.34de6062.chunk.css",
+    "main.js": "/webrtc-demo/static/js/main.f6fb1e87.chunk.js",
+    "main.js.map": "/webrtc-demo/static/js/main.f6fb1e87.chunk.js.map",
+    "runtime~main.js": "/webrtc-demo/static/js/runtime~main.8e1fe436.js",
+    "runtime~main.js.map": "/webrtc-demo/static/js/runtime~main.8e1fe436.js.map",
+    "static/js/2.6495a7fc.chunk.js": "/webrtc-demo/static/js/2.6495a7fc.chunk.js",
+    "static/js/2.6495a7fc.chunk.js.map": "/webrtc-demo/static/js/2.6495a7fc.chunk.js.map",
+    "index.html": "/webrtc-demo/index.html",
+    "precache-manifest.2fe241af6ab3f62bf6450eefac8cd8bd.js": "/webrtc-demo/precache-manifest.2fe241af6ab3f62bf6450eefac8cd8bd.js",
+    "service-worker.js": "/webrtc-demo/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/webrtc-demo/static/css/main.34de6062.chunk.css.map"
+  }
+}
