@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/webrtc/static/css/main.00ee8e08.chunk.css",
-    "main.js": "/webrtc/static/js/main.c28683f9.chunk.js",
-    "main.js.map": "/webrtc/static/js/main.c28683f9.chunk.js.map",
+    "main.js": "/webrtc/static/js/main.850c24c1.chunk.js",
+    "main.js.map": "/webrtc/static/js/main.850c24c1.chunk.js.map",
     "runtime~main.js": "/webrtc/static/js/runtime~main.526f4919.js",
     "runtime~main.js.map": "/webrtc/static/js/runtime~main.526f4919.js.map",
     "static/js/2.6495a7fc.chunk.js": "/webrtc/static/js/2.6495a7fc.chunk.js",
     "static/js/2.6495a7fc.chunk.js.map": "/webrtc/static/js/2.6495a7fc.chunk.js.map",
     "index.html": "/webrtc/index.html",
-    "precache-manifest.421ba3e0969b0f39adde9ce92c8b391a.js": "/webrtc/precache-manifest.421ba3e0969b0f39adde9ce92c8b391a.js",
+    "precache-manifest.71c5000be5780244c11f03a97c85cf06.js": "/webrtc/precache-manifest.71c5000be5780244c11f03a97c85cf06.js",
     "service-worker.js": "/webrtc/service-worker.js",
     "static/css/main.00ee8e08.chunk.css.map": "/webrtc/static/css/main.00ee8e08.chunk.css.map"
   }
